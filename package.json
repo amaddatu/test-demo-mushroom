@@ -4,7 +4,7 @@
   "description": "",
   "main": "hello.js",
   "scripts": {
-    "test": "jshint hello.js"
+    "test": "jshint hello.js assets/javascript/another.js"
   },
   "repository": {
     "type": "git",
