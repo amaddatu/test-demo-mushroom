@@ -1,0 +1,22 @@
+{
+  "name": "test-demo-mushroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaddatu/test-demo-mushroom.git"
+  },
+  "author": "Anthony Maddatu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaddatu/test-demo-mushroom/issues"
+  },
+  "homepage": "https://github.com/amaddatu/test-demo-mushroom#readme",
+  "dependencies": {
+    "jshint": "^2.9.7"
+  }
+}
